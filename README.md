@@ -16,25 +16,14 @@ A lightweight, colorful command-line system monitoring tool for Linux that displ
 - **Colorful Output**: Easy-to-read color-coded display
 
 ## Screenshots 📸
-```
-===================================
-   SYSTEM MONITOR DASHBOARD
-===================================
-
-[SYSTEM INFORMATION]
-Hostname: my-computer
-Uptime:   up 2 hours, 15 minutes
-Date:     2026-01-19 10:30:45
-
-[CPU INFORMATION]
-CPU Usage: 15.2%
-Load Average: 0.45, 0.52, 0.48
-
-[MEMORY INFORMATION]
-Total Memory: 16Gi
-Used Memory:  8.2Gi (51.2%)
-Free Memory:  7.8Gi
-```
+   
+   The dashboard displays real-time system information with color-coded output for easy monitoring.
+   
+   - System hostname, uptime, and current date/time
+   - CPU usage (4.8%) and load averages
+   - Memory usage (3.0Gi used / 7.4Gi total - 41.0%)
+   - Disk space with color warnings (69% and 2% usage shown)
+   - Top 5 CPU-consuming processes
 
 ## Prerequisites 📋
 
