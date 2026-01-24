@@ -5,5 +5,5 @@
 
 clear
 echo "==================================="
-echo "   SYSTEM MONITOR DASHBOARD"
+echo "   SYSTEM MONITOR DASHBOARD:"
 echo "==================================="
