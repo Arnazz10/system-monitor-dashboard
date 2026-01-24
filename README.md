@@ -43,7 +43,7 @@ git clone https://github.com/YOUR_USERNAME/system-monitor-dashboard.git
 
 2. Navigate to the project directory:
 ```bash
-cd system-monitor-dashboard
+cd system-monitor-dashboa
 ```
 
 3. Make the script executable:
