@@ -13,7 +13,7 @@ A lightweight, colorful command-line system monitoring tool for Linux that displ
 - **Disk Space**: Disk usage with color-coded warnings
 - **Process Tracking**: Top 5 CPU-consuming processes
 - **System Info**: Hostname, uptime, and current date/time
-- **Colorful Output**: Easy-to-read color-coded display
+- **Colorful Output**: Easy-to-read color-coded displa
 
 
 ## Screenshots 📸
