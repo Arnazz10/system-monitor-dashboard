@@ -1,6 +1,6 @@
 # System Monitor Dashboard 🖥️ :-
 
-A lightweight, colorful command-line system monitoring tool for Linux that displays real-time system information including CPU usage, memory stats, disk space, and top processes.
+A lightweight, colorful command-line system monitoring tool for Linux that displays real-time system information including CPU usage, memory stats, disk space, and top processes
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Bash](https://img.shields.io/badge/bash-5.0+-green.svg)
