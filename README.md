@@ -46,7 +46,7 @@ git clone https://github.com/YOUR_USERNAME/system-monitor-dashboard.git
 cd system-monitor-dashboa
 ```
 
-3. Make the script executable:
+3. Make the script executable-
 ```bash
 chmod +x sysmonitor.sh
 ```
